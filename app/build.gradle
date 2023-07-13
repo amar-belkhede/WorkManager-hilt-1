@@ -84,6 +84,8 @@ dependencies {
     implementation("com.squareup.okhttp3:okhttp")
     implementation("com.squareup.okhttp3:logging-interceptor")
 
+    implementation "com.google.accompanist:accompanist-permissions:0.31.5-beta"
+
 
 }
 
